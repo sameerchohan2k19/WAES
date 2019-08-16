@@ -20,15 +20,7 @@ PORT=80 # Setting std port
 COUNT=-1 # For tools loop
 
 #banner / help message
-echo ""
-echo -e "\e[00;32m#############################################################\e[00m"
-echo ""
-echo -e "	Web Auto Enum & Scanner $VERSION "
-echo ""
-echo -e "	Auto enums HTTP port and dumps files as result"
-echo ""
-echo -e "\e[00;32m#############################################################\e[00m"
-echo ""
+
 
 usage ()
 {
